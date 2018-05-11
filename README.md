@@ -1,2 +1,5 @@
 # I-Am-Poor
-Repository for "I Am Poor" app
+This is a simple app for the iPhone.
+It displays a message proclaiming poverty and an image of a lump of coal.
+
+Developed as part of the iOS 11 and Swift 4 course on Udemy.
